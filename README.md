@@ -26,15 +26,6 @@
 <img src="https://github.com/user-attachments/assets/fc0907d7-8379-4ca7-ae44-5321479f1cc6" width="90% />
 </p>
 
----
-
-
-
-
-
-
-
-
 
 🎥 **Watch the Demo Video:**  
 
