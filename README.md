@@ -23,14 +23,7 @@
 </p>
 
 🎥 **Watch the Demo Video:**  
-👉 [Click here](https://youtu.be/your_video_link)  
+  
+https://github.com/user-attachments/assets/42cfc6f6-8434-466a-a9ed-75124260d3b8
 
----
 
-## ⚙️ Installation  
-
-Clone the repository 📥  
-
-```bash
-git clone https://github.com/your-username/VolumeHandControl.git
-cd VolumeHandControl
