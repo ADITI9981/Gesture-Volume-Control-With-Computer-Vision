@@ -23,9 +23,10 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c086df65-a213-4d19-8230-52941bb4fba4"width="45%" />
 <img src="https://github.com/user-attachments/assets/50feec9d-ecc9-426c-82d5-09743a39a034"width="45%" />
-<img src="https://github.com/user-attachments/assets/fc0907d7-8379-4ca7-ae44-5321479f1cc6" width="90% />
+<img src="https://github.com/user-attachments/assets/fc0907d7-8379-4ca7-ae44-5321479f1cc6" width="90%" />
 </p>
 
+---
 
 🎥 **Watch the Demo Video:**  
 
