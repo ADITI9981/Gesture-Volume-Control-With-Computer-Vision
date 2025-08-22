@@ -28,11 +28,13 @@
 
 ---
 
+
 🎥 **Watch the Demo Video:**  
 
 https://github.com/user-attachments/assets/ee6fc1d9-5b0f-4aa6-b1a8-80e95ed0708c
 
 ---
+
 
 ## ⚡ How It Works
 👉 Place your hand in front of the **webcam**  
