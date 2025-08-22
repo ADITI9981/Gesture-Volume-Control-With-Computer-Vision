@@ -29,9 +29,8 @@
 ---
 
 🎥 **Watch the Demo Video:**  
-<p align="center">
-https://github.com/user-attachments/assets/42cfc6f6-8434-466a-a9ed-75124260d3b8
-</p>
+
+https://github.com/user-attachments/assets/ee6fc1d9-5b0f-4aa6-b1a8-80e95ed0708c
 
 ---
 
