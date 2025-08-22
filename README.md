@@ -30,7 +30,7 @@
 
 🎥 **Watch the Demo Video:**  
 <p align="center">
-<img src ="https://github.com/user-attachments/assets/42cfc6f6-8434-466a-a9ed-75124260d3b8" width="80%" />
+https://github.com/user-attachments/assets/42cfc6f6-8434-466a-a9ed-75124260d3b8
 </p>
 
 ---
